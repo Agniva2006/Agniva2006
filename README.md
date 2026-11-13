@@ -24,16 +24,6 @@
 - 🌱 300+ DSA problems solved on LeetCode & Codeforces
 - 💼 **Open to 2027 internships** — remote-friendly
 
-<!-- ================= STATS ================= -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agniva2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agniva2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Agniva2006&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 <!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Stack
 
