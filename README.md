@@ -18,7 +18,7 @@
 <!-- ================= ABOUT ================= -->
 ### 🚀 About Me
 - 🔭 CS undergraduate @ **Jalpaiguri Government Engineering College** ('28)
-- 🏆 Winner in **10+ national-level hackathons** (Google Cloud & IEEE DS Hackathons)
+- 🏆 finalist in **10+ national-level hackathons** (Google Cloud & IEEE DS Hackathons)
 - 📄 Published a paper on **Physics-Informed Neural Networks (PINNs)** — Regional Science & Technology Congress, 2026
 - 🧠 Building end-to-end: **ML/CV systems, RAG apps, predictive analytics & production backend platforms**
 - 🌱 300+ DSA problems solved on LeetCode & Codeforces
